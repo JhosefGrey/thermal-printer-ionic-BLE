@@ -1,0 +1,7 @@
+{
+  "name": "tp-pos",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
